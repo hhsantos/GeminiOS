@@ -1,0 +1,8 @@
+{
+  "name": "GeminiOS",
+  "description": "A beautiful, fully functional Windows-inspired OS built with React and Tailwind CSS, featuring a desktop environment, taskbar, start menu, and AI-powered Gemini Assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
